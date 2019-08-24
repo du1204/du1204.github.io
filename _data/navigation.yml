@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: /cv/
+    url: duhyeongkim_cv.pdf
   - title: "Publications"
     url: /publications/ 
   # - title: "Quick-Start Guide"

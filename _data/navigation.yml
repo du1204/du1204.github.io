@@ -3,7 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Presentations"
-    url: /presentations/   
+    url: /presentations/
+  - title: "CV"
+    url: https://du1204.github.io/files/cv/duhyeongkim_cv.pdf     
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

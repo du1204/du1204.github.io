@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Duhyeong Kim"
   avatar           : "/assets/images/DuhyeongKim.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Ph.D. Student in Department of Mathematical Sciences, Seoul National University"
+  bio              : "Department of Mathematical Sciences, Seoul National University"
   location         : "Seoul, Republic of Korea"
   email            :
   links:

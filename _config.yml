@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Duhyeong Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/DuhyeongKim.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a Ph.D. Student in Department of Mathematical Sciences, Seoul National University"
   location         : "Seoul, Republic of Korea"
   email            :
@@ -119,7 +119,7 @@ author:
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=GcCNJCgAAAAJ&hl=en"
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-researchgate"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Duhyeong_Kim"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

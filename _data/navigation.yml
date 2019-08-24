@@ -1,8 +1,8 @@
 # main links
 main:
-    - title: "CV"
+  - title: "CV"
     url: /docs/cv/duhyeongkim_cv.pdf
-    - title: "Publications"
+  - title: "Publications"
     url: /docs/publication/ 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

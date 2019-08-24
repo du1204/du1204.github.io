@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "CV"
+    url: https://du1204.github.io/files/cv/duhyeongkim_cv.pdf
   - title: "Publications"
     url: /publications/
   - title: "Presentations"
     url: /presentations/
-  - title: "CV"
-    url: https://du1204.github.io/files/cv/duhyeongkim_cv.pdf
   - title: "Links"
     url: /links/       
   # - title: "Quick-Start Guide"

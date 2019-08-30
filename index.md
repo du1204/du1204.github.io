@@ -14,6 +14,7 @@ My major research topics are homomorphic encryption and lattice-based cryptograp
 I received my Bachelor's degree with Highest Honors from Mathematical Sciences at SNU in 2015.
 
 
-## Upcoming Events
+## News and Upcoming Events
 
-To be updated..
+  1. The [paper](https://eprint.iacr.org/2019/417.pdf) about "homomorphic comparison" was accepted to ASIACRYPT 2019.
+  2. I will be offline during 10/10/2019 ~ 7/11/2019 due to the alternative military service.

@@ -22,4 +22,5 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 - The paper [[CKP19]](https://eprint.iacr.org/2019/465.pdf) about "privacy-preserving cluster analysis based on homomorphic encryption" was accepted to [SAC 2019](https://uwaterloo.ca/selected-areas-in-cryptography/).
 
 
-- I will be offline during 10/10/2019 ~ 7/11/2019 due to the alternative military service.
+- I will be offline during 2019/10/10 ~ 2019/11/07 due to the alternative military service.
+

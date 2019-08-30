@@ -16,5 +16,9 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
-  1. The [paper](https://eprint.iacr.org/2019/417.pdf) about "homomorphic comparison" was accepted to ASIACRYPT 2019.
-  2. I will be offline during 10/10/2019 ~ 7/11/2019 due to the alternative military service.
+- The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) about "homomorphic comparison" was accepted to [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/).
+
+- The paper [[CKP19]](https://eprint.iacr.org/2019/465.pdf) about "privacy-preserving cluster analysis based on homomorphic encryption" was accepted to [SAC 2019](https://uwaterloo.ca/selected-areas-in-cryptography/).
+
+
+- I will be offline during 10/10/2019 ~ 7/11/2019 due to the alternative military service.

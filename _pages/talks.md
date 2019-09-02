@@ -1,8 +1,8 @@
 ---
 layout: archive
 classes: wide
-title: "Presentations"
-permalink: /presentations/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 ---
 

@@ -4,8 +4,8 @@ main:
     url: https://du1204.github.io/files/cv/duhyeongkim_cv.pdf
   - title: "Publications"
     url: /publications/
-  - title: "Presentations"
-    url: /presentations/
+  - title: "Talks"
+    url: /talks/
   - title: "Links"
     url: /links/       
   # - title: "Quick-Start Guide"

@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 title: "Presentations"
 permalink: /presentations/
 author_profile: true

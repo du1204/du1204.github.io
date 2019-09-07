@@ -20,7 +20,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Journal
 
-4. [[KSK+19]](https://eprint.iacr.org/2019/152.pdf) \*Duhyeong Kim, Yongha Son, Dongwoo Kim, Andrey Kim, Seungwan Hong and Jung Hee Cheon. “Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption.” *To Appear in BMC Genomics*.
+4. [[KSK+19]](https://eprint.iacr.org/2019/152.pdf) \*Duhyeong Kim, Yongha Son, Dongwoo Kim, Andrey Kim, Seungwan Hong and Jung Hee Cheon. “Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption.” *To Appear in BMC Medical Genomics*.
 
 3. [[LKL+19]](https://ieeexplore.ieee.org/document/8555993) \*Joohee Lee, Duhyeong Kim, Hyungkyu Lee, Younho Lee, and Jung Hee Cheon. “RLizard:  Post-Quantum Key Encapsulation Mechanism for IoT Devices.” *IEEE Access 7 (2019):  2080-2091*.
 

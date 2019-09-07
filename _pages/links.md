@@ -10,8 +10,8 @@ author_profile: true
 
 - [Cryptology ePrint Archive](https://eprint.iacr.org/): An archive of papers related to cryptography
 
-- [LWE Estimator](https://bitbucket.org/malb/lwe-estimator/src/master/): A Sage module for estimating the bit security of Learning with Errors (LWE) instances 
+- [LWE Estimator](https://bitbucket.org/malb/lwe-estimator/src/master/): A Sage module for estimating the bit security of learning with errors (LWE) instances 
 
 - [HE Standardization](https://homomorphicencryption.org/): A standardization process on homomorphic encryption
 
-- [PQC Standardization](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography): A standardization process on Post-Quantum Cryptography initiated by NIST
+- [PQC Standardization](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography): A standardization process on post-quantum cryptography initiated by NIST

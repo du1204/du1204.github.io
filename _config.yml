@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Duhyeong Kim (김두형)"
   avatar           : "/assets/images/DuhyeongKim.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Mathematical Sciences,  Seoul National University"
+  bio              : "Department of Mathematical Sciences,\  Seoul National University"
   location         : "Seoul, Republic of Korea"
   email            :
   links:

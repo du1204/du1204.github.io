@@ -1,7 +1,7 @@
 ---
 layout: archive
 classes: wide
-title: "Links"
+title: "Useful Links"
 permalink: /links/
 author_profile: true
 ---
@@ -12,4 +12,6 @@ author_profile: true
 
 - [LWE Estimator](https://bitbucket.org/malb/lwe-estimator/src/master/): A Sage module for estimating the bit security of Learning with Errors (LWE) instances 
 
-- [HES](https://homomorphicencryption.org/): Standardization process on homomorphic encryption
+- [HE Standardization](https://homomorphicencryption.org/): A standardization process on homomorphic encryption
+
+- [PQC Standardization](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography): A standardization process on Post-Quantum Cryptography initiated by NIST

@@ -10,7 +10,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 ## Conference
 
 1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *To appear in ASIACRYPT 2019*.
-	* Awards: *Invited to Journal of Cryptology* (Top 3 of 71 accepted papers among 306 submissions)
+	* Award: *Invited to Journal of Cryptology* (Top 3 of 71 accepted papers among 306 submissions)
 
 1. [[CKP19]](https://eprint.iacr.org/2019/465.pdf) Jung Hee Cheon, Duhyeong Kim and Jai Hyun Park. "Towards a Practical Clustering Analysis over Encrypted Data." *To appear in Selected Areas in Cryptography (SAC) 2019*. 
 

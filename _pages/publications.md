@@ -41,8 +41,6 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Working Papers
 
-1. "Complexity-Optimal Comparison Method for Homomorphic Encryption", with Dongwoo Kim
-
 1. "A New Trapdoor over Generalized NTRU Lattices and its Application to Identity-based Encryption", with Yongha Son and Taechan Kim
 
 

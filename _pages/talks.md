@@ -6,9 +6,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Jan 2020 (planned)] Efficient Homomorphic Comparison Methods with Optimal Complexity (East Asian Core Doctoral Forum on Mathematics 2020 in Tokyo, Japan)
+[Jan 2020 (planned)] Efficient Homomorphic Comparison Methods with Optimal Complexity ([East Asian Core Doctoral Forum on Mathematics 2020](https://www.ms.u-tokyo.ac.jp/~yasuyuki/eacdfm2020.htm) in Tokyo, Japan)
 
-[Dec 2019 (planned)] Numerical Methods for Comparison on Homomorphically Encrypted Numbers (ASIACRYPT 2019 in Kobe, Japan)
+[Dec 2019 (planned)] Numerical Methods for Comparison on Homomorphically Encrypted Numbers ([ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/index.html) in Kobe, Japan)
 
 [Nov 2018]	Approximate Homomorphic Encryption over the Conjugate-Invariant Ring ([ICISC](http://www.icisc.org/) 2018 in Seoul, Republic of Korea) [[slide]](https://du1204.github.io/files/slide/Real-HEAAN_Seoul.pdf)
 

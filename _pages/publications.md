@@ -31,6 +31,8 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Preprints
 
+1. [CKK19] Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim. "Efficient Homomorphic Comparison Methods with Optimal Complexity".
+
 1. [SCKG18] \*Yongsoo Song,  Jacek Cyranka, Duhyeong Kim and  Sicun Gao.   “Convergence  and Oscillation of Low-Precision Stochastic Gradient Descent”.
 
 1. [[CKK+18]](https://eprint.iacr.org/2018/1214.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Joohee Lee and Yongsoo Song. “Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher”.

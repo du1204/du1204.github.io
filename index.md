@@ -17,9 +17,9 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
-- My SNU team was chosen as one of the winners of Track 2 in [iDASH 2019](http://www.humangenomeprivacy.org/2019/) competition!
+- My SNU team was chosen as one of the winners of Track 2 in [iDASH 2019](http://www.humangenomeprivacy.org/2019/) competition.
 
-- The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) about "homomorphic comparison" was accepted to [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/) with an honor of being invited to [Journal of Cryptology](https://www.iacr.org/jofc/)! (Top 3 of 71 accepted papers among 306 submissions)
+- The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) about "homomorphic comparison" was accepted to [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/) with an honor of being invited to [Journal of Cryptology](https://www.iacr.org/jofc/). (Top 3 of 71 accepted papers among 306 submissions)
 
 - The paper [[CKP19]](https://eprint.iacr.org/2019/465.pdf) about "privacy-preserving cluster analysis based on homomorphic encryption" was accepted to [SAC 2019](https://uwaterloo.ca/selected-areas-in-cryptography/).
 

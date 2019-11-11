@@ -9,7 +9,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Conference
 
-1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers". *To appear in ICISC 2019.
+1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers". *To appear in ICISC 2019*.
 
 1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *To appear in ASIACRYPT 2019*.
 	* Award: *Invited to Journal of Cryptology (Top 3 of 71 accepted papers among 306 submissions)*
@@ -35,7 +35,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 1. [CKKS19] Jung Hee Cheon, Duhyeong Kim, Taechan Kim, Yongha Son. "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption".
 
-1. [[CKK19]](https://eprint.iacr.org/2019/1234) Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim. "Efficient Homomorphic Comparison Methods with Optimal Complexity".
+1. [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim. "Efficient Homomorphic Comparison Methods with Optimal Complexity".
 
 1. [SCKG18] \*Yongsoo Song,  Jacek Cyranka, Duhyeong Kim and  Sicun Gao. “Convergence  and Oscillation of Low-Precision Stochastic Gradient Descent”.
 

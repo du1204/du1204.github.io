@@ -17,7 +17,7 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
-- Our new paper [[CKK19]](https://eprint.iacr.org/2019/1234) about "compexity-optimal comparison method for homomorphic encryption" was published at the Cryptology ePrint Archive.
+- Our new paper [[CKK19]](https://eprint.iacr.org/2019/1234) about "complexity-optimal comparison method for homomorphic encryption" is now available at the Cryptology ePrint Archive.
 
 - The paper [[CHK17]](https://eprint.iacr.org/2017/079.pdf) about "faster bootstrapping of FHE over the integers" was accepted to [ICISC 2019](http://www.icisc.org/).
 

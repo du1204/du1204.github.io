@@ -9,6 +9,8 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Conference
 
+1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers".
+
 1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *To appear in ASIACRYPT 2019*.
 	* Award: *Invited to Journal of Cryptology (Top 3 of 71 accepted papers among 306 submissions)*
 
@@ -31,16 +33,12 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Preprints
 
-1. [CKK19] Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim. "Efficient Homomorphic Comparison Methods with Optimal Complexity".
+1. [CKKS19] Jung Hee Cheon, Duhyeong Kim, Taechan Kim, Yongha Son. "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption".
 
-1. [SCKG18] \*Yongsoo Song,  Jacek Cyranka, Duhyeong Kim and  Sicun Gao.   “Convergence  and Oscillation of Low-Precision Stochastic Gradient Descent”.
+1. [[CKK19]](https://eprint.iacr.org/2019/1234) Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim. "Efficient Homomorphic Comparison Methods with Optimal Complexity".
+
+1. [SCKG18] \*Yongsoo Song,  Jacek Cyranka, Duhyeong Kim and  Sicun Gao. “Convergence  and Oscillation of Low-Precision Stochastic Gradient Descent”.
 
 1. [[CKK+18]](https://eprint.iacr.org/2018/1214.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Joohee Lee and Yongsoo Song. “Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher”.
-
-1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers".
-
-## Working Papers
-
-1. "A New Trapdoor over Generalized NTRU Lattices and its Application to Identity-based Encryption", with Yongha Son and Taechan Kim
 
 

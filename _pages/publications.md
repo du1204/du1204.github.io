@@ -11,7 +11,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers". *To appear in ICISC 2019*.
 
-1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *To appear in ASIACRYPT 2019*.
+1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *In Advances in Cryptology – ASIACRYPT 2019. Lecture Notes in Computer Science, vol 11922. Springer, Cham, 2019*.
 	* Award: *Invited to Journal of Cryptology (Top 3 of 71 accepted papers among 306 submissions)*
 
 1. [[CKP19]](https://eprint.iacr.org/2019/465.pdf) Jung Hee Cheon, Duhyeong Kim and Jai Hyun Park. "Towards a Practical Clustering Analysis over Encrypted Data." *To appear in Selected Areas in Cryptography (SAC) 2019*. 

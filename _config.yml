@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Duhyeong's website"
+title                    : "Duhyeong Kim's Homepage"
 title_separator          : "-"
-name                     : "Duhyeong's website"
-description              : "An amazing website."
+name                     : "Duhyeong Kim's Homepage"
+description              : "Duhyeong Kim's Homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

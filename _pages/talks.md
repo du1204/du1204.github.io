@@ -13,10 +13,10 @@ author_profile: true
 [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/index.html) in Kobe, Japan
 
 [Nov 2018]	Approximate Homomorphic Encryption over the Conjugate-Invariant Ring  
-[ICISC](http://www.icisc.org/) 2018 in Seoul, Republic of Korea) [[slide]](https://du1204.github.io/files/slide/Real-HEAAN_Seoul.pdf
+[ICISC](http://www.icisc.org/) 2018 in Seoul, Republic of Korea [[slide]](https://du1204.github.io/files/slide/Real-HEAAN_Seoul.pdf)
 
 [Sep 2018]	Lizard: A practical Post-Quantum Public-Key encryption from LWE and LWR  
-[SCN 2018](http://scn.di.unisa.it/) in Amalfi, Italy) [[slide]](https://du1204.github.io/files/slide/Lizard_Amalfi.pdf
+[SCN 2018](http://scn.di.unisa.it/) in Amalfi, Italy [[slide]](https://du1204.github.io/files/slide/Lizard_Amalfi.pdf)
 
 [Jan 2018]	Hash-and-Sign Signature over General NTRU lattices  
 Winter Crypto Camp in Konjiam Resort, Republic of Korea

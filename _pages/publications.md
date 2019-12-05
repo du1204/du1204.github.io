@@ -9,7 +9,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Conference
 
-1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers". *ICISC 2019*.
+1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers." *ICISC 2019*.
 
 1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *ASIACRYPT 2019*.
 	* Award: *Invited to Journal of Cryptology (Top 3 of 71 accepted papers among 306 submissions)*

@@ -9,16 +9,16 @@ Authors are listed in alphabetical order by last name, unless an asterisk (\*) i
 
 ## Conference
 
-1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers". *To appear in ICISC 2019*.
+1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) Jung  Hee  Cheon,  Kyoohyung  Han  and Duhyeong  Kim. “Faster  bootstrapping  of  FHE  over  the integers". *ICISC 2019*.
 
-1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *In Advances in Cryptology – ASIACRYPT 2019. Lecture Notes in Computer Science, vol 11922. Springer, Cham, 2019*.
+1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Hun Hee Lee and Keewoo Lee. "Numerical Methods for Comparison on Homomorphically Encrypted Numbers." *ASIACRYPT 2019*.
 	* Award: *Invited to Journal of Cryptology (Top 3 of 71 accepted papers among 306 submissions)*
 
-1. [[CKP19]](https://eprint.iacr.org/2019/465.pdf) Jung Hee Cheon, Duhyeong Kim and Jai Hyun Park. "Towards a Practical Clustering Analysis over Encrypted Data." *To appear in Selected Areas in Cryptography (SAC) 2019*. 
+1. [[CKP19]](https://eprint.iacr.org/2019/465.pdf) Jung Hee Cheon, Duhyeong Kim and Jai Hyun Park. "Towards a Practical Clustering Analysis over Encrypted Data." *SAC 2019*. 
 
-1. [[KS18]](https://link.springer.com/chapter/10.1007/978-3-030-12146-4_6) Duhyeong Kim and Yongsoo Song.  “Approximate Homomorphic Encryption over the Conjugate-Invariant  Ring.”  *In  International  Conference  on  Information  Security  and  Cryptology (ICISC),  pp.85-102.  Springer, Cham, 2018*.
+1. [[KS18]](https://link.springer.com/chapter/10.1007/978-3-030-12146-4_6) Duhyeong Kim and Yongsoo Song.  “Approximate Homomorphic Encryption over the Conjugate-Invariant  Ring.”  *ICISC 2018*.
 
-1. [[CKLS18]](https://link.springer.com/chapter/10.1007/978-3-319-98113-0_9) Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song. "Lizard: Cut off the tail! A practical post-quantum public-key encryption from LWE and LWR." *In International Conference on Security and Cryptography for Networks (SCN), pp. 160-177. Springer, Cham, 2018*.
+1. [[CKLS18]](https://link.springer.com/chapter/10.1007/978-3-319-98113-0_9) Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song. "Lizard: Cut off the tail! A practical post-quantum public-key encryption from LWE and LWR." *SCN 2018*.
 
 
 ## Journal

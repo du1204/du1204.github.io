@@ -9,7 +9,7 @@ author_profile: true
 ## Conference
 
 1. [[CHK17]](https://eprint.iacr.org/2017/079.pdf) "Faster  bootstrapping  of  FHE  over  the integers"  
-with Jung Hee Cheon and  Kyoohyung Han (ICISC 2019)
+with Jung Hee Cheon and  Kyoohyung Han (**ICISC 2019**)
 
 1. [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) "Numerical Methods for Comparison on Homomorphically Encrypted Numbers."  
 with Jung Hee Cheon, Dongwoo Kim, Hun Hee Lee and Keewoo Lee (ASIACRYPT 2019)

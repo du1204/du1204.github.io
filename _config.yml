@@ -122,7 +122,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Duhyeong_Kim"
     - label: "DBLP"
-      icon: "fab fa-fw fa-book-open"
+      icon: "fas fa-fw fa-book-open"
       url: "https://dblp.org/pers/hd/k/Kim:Duhyeong"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

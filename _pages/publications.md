@@ -53,7 +53,7 @@ Jung Hee Cheon and Duhyeong Kim
 
 ## Preprints
 
-1. [CKKS19] "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption"  
+1. [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption"  
 Jung Hee Cheon, Duhyeong Kim, Taechan Kim and Yongha Son
 
 1. [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) "Efficient Homomorphic Comparison Methods with Optimal Complexity"  

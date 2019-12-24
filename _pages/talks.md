@@ -14,11 +14,11 @@ author_profile: true
 1. **Numerical Methods for Homomorphic Comparison**  
 [Dec 2019]	[ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/index.html) in Kobe, Japan [[slide]](https://du1204.github.io/files/slide/asiacrypt2019_comparison.pdf)
 
+1. **A New Trapdoor over Module-NTRU Lattices and its Applications**  
+[Jan 2019] Winter Crypto Camp 2019 in Konjiam Resort, Republic of Korea [[slide]](https://du1204.github.io/files/slide/gntru_signature.pdf)
+
 1. **Approximate HE over the Conjugate-Invariant Ring** (a.k.a. **Real-HEAAN**)   
 [Nov 2018]	[ICISC 2018](http://journalhome.ap-northeast-2.elasticbeanstalk.com/sites/icisc2018) in Seoul, Republic of Korea [[slide]](https://du1204.github.io/files/slide/Real-HEAAN_Seoul.pdf)
-
-1. **Hash-and-Sign Signature over General NTRU Lattices**  
-[Jan 2019] Winter Crypto Camp 2019 in Konjiam Resort, Republic of Korea [[slide]](https://du1204.github.io/files/slide/gntru_signature.pdf)
 
 1. **Lizard: Cut off the tail! The practical post-quantum PKE from LWE and LWR**  
 [Sep 2018]	[SCN 2018](http://scn.di.unisa.it/) in Amalfi, Italy [[slide]](https://du1204.github.io/files/slide/Lizard_Amalfi.pdf)  

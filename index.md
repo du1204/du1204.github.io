@@ -17,7 +17,7 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
-- The paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) was selected as Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
+- The paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
 
 - My new paper [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) about "New trapdoor over Module-NTRU lattices and its applications" is now available at the Cryptology ePrint Archive.
 

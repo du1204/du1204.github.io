@@ -17,7 +17,7 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
-- I will work as a research intern at the [Cryptography Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) of Microsoft Research this summer in Redmond, Washington.
+- I will work as a research intern at the [Cryptography Group of Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/cryptography-research/) this summer.
 
 - The paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
 

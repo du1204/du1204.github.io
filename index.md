@@ -17,11 +17,11 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
+- I will work as a research intern at the [Cryptography Group](https://www.microsoft.com/en-us/research/group/cryptography-research/) of Microsoft Research this summer in Redmond, Washington.
+
 - The paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
 
 - My new paper [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) about "New trapdoor over Module-NTRU lattices and its applications" is now available at the Cryptology ePrint Archive.
-
-- My new paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) about "complexity-optimal comparison method for homomorphic encryption" is now available at the Cryptology ePrint Archive.
 
 - The paper [[CHK17]](https://eprint.iacr.org/2017/079.pdf) about "faster bootstrapping of FHE over the integers" was accepted to [ICISC 2019](http://www.icisc.org/).
 

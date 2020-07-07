@@ -17,6 +17,8 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
+- The paper [[KHB+20]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2.full.pdf) about "secure genotype imputation based on HE" is now available at bioRxiv. This is a joint work of [iDASH 2019](http://www.humangenomeprivacy.org/2019/) winner teams and the organizing group.
+
 - The paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
 
 - My new paper [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) about "New trapdoor over Module-NTRU lattices and its applications" is now available at the Cryptology ePrint Archive.

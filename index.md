@@ -25,7 +25,7 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 - The paper [[CHK17]](https://eprint.iacr.org/2017/079.pdf) about "faster bootstrapping of FHE over the integers" was accepted to [ICISC 2019](http://www.icisc.org/).
 
-- My SNU team was chosen as one of the winners of Track 2 in [iDASH 2019](http://www.humangenomeprivacy.org/2019/) competition. [[Git]](https://github.com/idashSNU/Imputation)
+- My SNU team was chosen as one of the winners of Track 2 in [iDASH 2019](http://www.humangenomeprivacy.org/2019/) competition. [[SNU Solution]](https://github.com/idashSNU/Imputation)
 
 - The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) about "homomorphic comparison" was accepted to [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/) with an honor of being invited to [Journal of Cryptology](https://www.iacr.org/jofc/). (Top 3 of 71 accepted papers among 307 submissions)
 

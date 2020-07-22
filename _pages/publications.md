@@ -34,7 +34,7 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 ## Journal
 
-1. [[KSK+19]](https://eprint.iacr.org/2019/152.pdf) “Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption”  
+1. [[KSK+20]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0722-1#citeas) “Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption”  
 \*Duhyeong Kim, Yongha Son, Dongwoo Kim, Andrey Kim, Seungwan Hong and Jung Hee Cheon  
 **BMC Medical Genomics, 2020**
 

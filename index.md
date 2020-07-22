@@ -17,11 +17,15 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
+- The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) was selected for the Excellence Award at Samsung DS Industry-Academy Cooperation Project.
+
+- The paper [[KSK+19]](https://eprint.iacr.org/2019/152.pdf) about "HE-based semi-parallel GWAS computation" was accepted to [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/).
+
 - The paper [[KHB+20]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2.full.pdf) about "secure genotype imputation based on HE" is now available at bioRxiv. This is a joint work of [iDASH 2019](http://www.humangenomeprivacy.org/2019/) Track 2 winner teams, UTHealth and Microsoft Research.
 
 - The paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
 
-- My new paper [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) about "New trapdoor over Module-NTRU lattices and its applications" is now available at the Cryptology ePrint Archive.
+- My new paper [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) about "New trapdoor over Module-NTRU lattices and its applications" is now available at the [Cryptology ePrint Archive](https://eprint.iacr.org/).
 
 - The paper [[CHK17]](https://eprint.iacr.org/2017/079.pdf) about "faster bootstrapping of FHE over the integers" was accepted to [ICISC 2019](http://www.icisc.org/).
 

@@ -11,7 +11,7 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 ## Conference
 
 1. [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) "Efficient Homomorphic Comparison Methods with Optimal Complexity"  
-Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim
+Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim  
 **ASIACRYPT 2020**
 
 1. [[CHK17]](https://link.springer.com/chapter/10.1007%2F978-3-030-40921-0_15) "Faster  bootstrapping  of  FHE  over  the integers"  

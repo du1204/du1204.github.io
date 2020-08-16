@@ -10,6 +10,10 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 ## Conference
 
+1. [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) "Efficient Homomorphic Comparison Methods with Optimal Complexity"  
+Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim
+**ASIACRYPT 2020**
+
 1. [[CHK17]](https://link.springer.com/chapter/10.1007%2F978-3-030-40921-0_15) "Faster  bootstrapping  of  FHE  over  the integers"  
 Jung Hee Cheon, Kyoohyung Han and Duhyeong Kim  
 **ICISC 2019**
@@ -58,9 +62,6 @@ Jung Hee Cheon and Duhyeong Kim
 
 1. [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption"  
 Jung Hee Cheon, Duhyeong Kim, Taechan Kim and Yongha Son
-
-1. [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) "Efficient Homomorphic Comparison Methods with Optimal Complexity"  
-Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim
 
 1. [SCKG18] “Convergence  and Oscillation of Low-Precision Stochastic Gradient Descent”  
 \*Yongsoo Song, Jacek Cyranka, Duhyeong Kim and Sicun Gao

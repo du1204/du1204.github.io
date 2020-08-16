@@ -17,6 +17,8 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
+- The paper [[CKK19]](https://eprint.iacr.org/2019/1234.pdf) was accepted to [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/).
+
 - The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) was selected for the Excellence Award at Samsung DS Industry-Academy Cooperation Project.
 
 - The paper [[KSK+20]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0722-1#citeas) about "HE-based semi-parallel GWAS computation" was accepted to [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/).

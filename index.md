@@ -18,6 +18,8 @@ I received my Bachelor's degree with Highest Honors from Mathematical Sciences a
 
 ## News and Upcoming Events
 
+- My PhD Thesis ``Machine Learning on Encrypted Data and Homomorphic Comparison'' received the Best PhD Dissertation Award from the College of Natural Sciences at SNU.
+
 - The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) about “complexity-optimal homomorphic comparison” was accepted to [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/).
 
 - The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) was selected for the Excellence Award at Samsung DS Industry-Academy Cooperation Project.

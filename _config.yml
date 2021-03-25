@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Duhyeong Kim (김두형)"
-  avatar           : "/assets/images/DuhyeongKim.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/DuhyeongKim.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Scientist, <br> Privacy Technologies Research, <br> Intel Labs"
   location         : "Hillsboro, OR, United States"
   email            :

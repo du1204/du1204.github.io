@@ -17,7 +17,7 @@ I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/i
 
 ## News and Upcoming Events
 
-- My PhD Thesis "Machine Learning on Encrypted Data and Homomorphic Comparison" received the Best PhD Dissertation Award from the College of Natural Sciences at SNU.
+- My PhD Thesis entitled "[Machine Learning on Encrypted Data and Homomorphic Comparison](https://dcollection.snu.ac.kr/srch/srchDetail/000000163766?localeParam=en)" received the Best PhD Dissertation Award from the College of Natural Sciences at SNU.
 
 - The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) about “complexity-optimal homomorphic comparison” was accepted to [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/).
 

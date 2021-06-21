@@ -10,6 +10,10 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 ## Conference
 
+1. [[CKK+21]](https://eprint.iacr.org/2018/1214.pdf) “Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher”  
+Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Joohee Lee and Yongsoo Song  
+**ACISP 2021**
+
 1. [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) "Efficient Homomorphic Comparison Methods with Optimal Complexity"  
 Jung Hee Cheon, Dongwoo Kim and Duhyeong Kim  
 **ASIACRYPT 2020**
@@ -37,6 +41,10 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 
 ## Journal
+
+1. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a secure PHM outsourcing solution for small and medium manufacturing enterprise"  
+Ha Eun David Kang, Duhyeong Kim, Sangwoon Kim, David Donghyun Kim, Jung Hee Cheon and Brian W. Anthony  
+**Journal of Manufacturing Systems, 2021**
 
 1. [[KSK+20]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0722-1#citeas) “Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption”  
 \*Duhyeong Kim, Yongha Son, Dongwoo Kim, Andrey Kim, Seungwan Hong and Jung Hee Cheon  
@@ -66,7 +74,6 @@ Jung Hee Cheon, Duhyeong Kim, Taechan Kim and Yongha Son
 1. [SCKG18] “Convergence  and Oscillation of Low-Precision Stochastic Gradient Descent”  
 \*Yongsoo Song, Jacek Cyranka, Duhyeong Kim and Sicun Gao
 
-1. [[CKK+18]](https://eprint.iacr.org/2018/1214.pdf) “Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher”  
-Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim, Joohee Lee and Yongsoo Song
+
 
 

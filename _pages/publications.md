@@ -42,7 +42,7 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 ## Journal
 
-1. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a secure PHM outsourcing solution for small and medium manufacturing enterprise"  
+1. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a \*secure PHM outsourcing solution for small and medium manufacturing enterprise"  
 Ha Eun David Kang, Duhyeong Kim, Sangwoon Kim, David Donghyun Kim, Jung Hee Cheon and Brian W. Anthony  
 **Journal of Manufacturing Systems, 2021**
 

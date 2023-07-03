@@ -17,17 +17,30 @@ I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/i
 
 ## News and Upcoming Events
 
+- The paper [[KLSS23]](https://eprint.iacr.org/2023/623.pdf) entitled "Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE" was accepted to [CRYPTO 2023](https://crypto.iacr.org/2023/). 
+
+- Intel HERACLES, a revolutionary HW accelerator for lattice-based FHE, has been introduced at [GOMACTech 2023](https://www.gomactech.net/2023/).
+
+- The paper [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) about "secure genotype imputation based on HE" has been published in [Cell Systems](https://www.sciencedirect.com/journal/cell-systems). This is a joint work of [iDASH 2019](http://www.humangenomeprivacy.org/2019/) Track 2 winner teams (TFHE-Chimera, SNU, EPFL), UTHealth and Microsoft Research.
+
 - My PhD Thesis entitled "[Machine Learning on Encrypted Data and Homomorphic Comparison](https://dcollection.snu.ac.kr/srch/srchDetail/000000163766?localeParam=en)" received the Best PhD Dissertation Award from the College of Natural Sciences at SNU.
 
-- The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) about “complexity-optimal homomorphic comparison” was accepted to [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/).
+- The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) about “complexity-optimal homomorphic comparison” was accepted to [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/) and selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
 
+<!--- 
 - The paper [[CKK+19]](https://eprint.iacr.org/2019/417.pdf) was selected for the Excellence Award at Samsung DS Industry-Academy Cooperation Project.
+--->
 
+<!---
 - The paper [[KSK+20]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0722-1#citeas) about "HE-based semi-parallel GWAS computation" was accepted to [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/).
+--->
 
+<!--- 
 - The paper [[KHB+20]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2.full.pdf) about "secure genotype imputation based on HE" is now available at bioRxiv. This is a joint work of [iDASH 2019](http://www.humangenomeprivacy.org/2019/) Track 2 winner teams (TFHE-Chimera, SNU, EPFL), UTHealth and Microsoft Research.
+--->
 
-- The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
-
+<!---
+ - The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) was selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).
+--->
 
 

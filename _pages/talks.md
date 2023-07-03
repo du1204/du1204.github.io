@@ -5,16 +5,16 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-1. **Practical Proof-of-Knowledge based on Hint-LWE**
-[Aug 2023] [Crypto 2023](https://crypto.iacr.org/2023/) in Santa Barbara, USA
-[Jan 2023] Crypto Winter Camp 2023 in Konjiam Resort, Republic of Korea
+1. **Practical Proof-of-Knowledge based on Hint-LWE**   
+[Aug 2023] [Crypto 2023](https://crypto.iacr.org/2023/) in Santa Barbara, USA   
+[Jan 2023] Crypto Winter Camp 2023 in Konjiam Resort, Republic of Korea   
 
-1. **Faster Amortized FHEW Bootstrapping**
+1. **Faster Amortized FHEW Bootstrapping**   
 [Feb 2023] Tech Talk at [FHE.org](https://FHE.org), Online [[slides]](https://drive.google.com/file/d/1FHH3KvbzUwt3z6dvlbfDXPbql42Yxrjz/view?pli=1)[[video]](https://www.youtube.com/watch?v=7wNXeLkHmuY&feature=youtu.be)
 
-1. **Approximate FHE CKKS: A to Z**
-[July 2022] Tech Talk at [NIST Crypto Reading Club](https://csrc.nist.gov/Projects/crypto-reading-club), Online
-[May 2021] PTR Talk at Intel Labs, Online
+1. **Approximate FHE CKKS: A to Z**   
+[July 2022] Tech Talk at [NIST Crypto Reading Club](https://csrc.nist.gov/Projects/crypto-reading-club), Online   
+[May 2021] PTR Talk at Intel Labs, Online  
 
 1. **Complexity-Optimal Homomorphic Comparison**  
 [Dec 2021]      [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/) in online [[slide]](https://du1204.github.io/files/slide/Comparison_AC20_submit.pdf)[[video]](https://www.youtube.com/watch?v=FEmRhFC6z38)  

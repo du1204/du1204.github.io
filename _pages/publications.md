@@ -10,11 +10,11 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 
 ## Conference
 
-1. [[KLSS23]](https://eprint.iacr.org/2023/623.pdf) “Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE”  
+1. [[KLSS23]](https://eprint.iacr.org/2023/623.pdf) "Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE"  
 Duhyeong Kim, Dongwon Lee, Jinyeong Seo and Yongsoo Song    
 **CRYPTO 2023**
 
-1. [WTK+23] “Intel  HERACLES: Homomorphic Encryption Revolutionary Accelerator with Correctness for Learning-oriented End-to-End Solutions.” 
+1. [WTK+23] "Intel  HERACLES: Homomorphic Encryption Revolutionary Accelerator with Correctness for Learning-oriented End-to-End Solutions."        
 Chris Wilkerson, Sachin Taneja, Raghavan Kumar, Sanu Mathew, Jeremy casas, Jin Yang, Michael Steiner, Huijing Gong, Wen Wang,  Duhyeong Kim, Ro cammarota    
 **GOMACTech 2023**
 

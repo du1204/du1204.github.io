@@ -11,12 +11,11 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 ## Conference
 
 1. [[KLSS23]](https://eprint.iacr.org/2023/623.pdf) “Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE”  
-Duhyeong Kim, Dongwon Lee, Jinyeong Seo and Yongsoo Song
+Duhyeong Kim, Dongwon Lee, Jinyeong Seo and Yongsoo Song    
 **CRYPTO 2023**
 
 1. [WTK+23] “Intel  HERACLES: Homomorphic Encryption Revolutionary Accelerator with Correctness for Learning-oriented End-to-End Solutions.” 
-Chris Wilkerson, Sachin Taneja, Raghavan Kumar, Sanu Mathew, Jeremy casas, Jin Yang, Michael  
-Steiner, Huijing Gong, Wen Wang,  Duhyeong Kim, Ro cammarota.
+Chris Wilkerson, Sachin Taneja, Raghavan Kumar, Sanu Mathew, Jeremy casas, Jin Yang, Michael Steiner, Huijing Gong, Wen Wang,  Duhyeong Kim, Ro cammarota    
 **GOMACTech 2023**
 
 1. [[CKK+21]](https://eprint.iacr.org/2018/1214.pdf) “Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher”  
@@ -52,11 +51,11 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 ## Journal
 
 1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $(x_i - x_j)$ modulo Cyclotomic Polynomial of the form $\Phi_{p^s}(x)$ or $\Phi_{p^sq^t}(x)$"
-Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim and Keewoo Lee
+Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim and Keewoo Lee   
 **Journal of the Korean Mathematical Society, 2022**
 
 3. [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.''
- $^*$Miran Kim, $^*$Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang.
+ $^*$Miran Kim, $^*$Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang    
 **Cell Systems, 2021**
 
 4. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a \*secure PHM outsourcing solution for small and medium manufacturing enterprise"  
@@ -87,7 +86,7 @@ Jung Hee Cheon and Duhyeong Kim
 \*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang
 --->
 
-1. [[CHK20]](https://eprint.iacr.org/2020/1581.pdf) ``Remark on the Security of CKKS Scheme in Practice.''
+1. [[CHK20]](https://eprint.iacr.org/2020/1581.pdf) ``Remark on the Security of CKKS Scheme in Practice''     
 Jung Hee Cheon, Seungwan Hong and Duhyeong Kim 
 
 1. [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption"  

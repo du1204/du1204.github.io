@@ -15,7 +15,7 @@ Duhyeong Kim, Dongwon Lee, Jinyeong Seo and Yongsoo Song
 **CRYPTO 2023**
 
 1. [WTK+23] "Intel  HERACLES: Homomorphic Encryption Revolutionary Accelerator with Correctness for Learning-oriented End-to-End Solutions."        
-Chris Wilkerson, Sachin Taneja, Raghavan Kumar, Sanu Mathew, Jeremy casas, Jin Yang, Michael Steiner, Huijing Gong, Wen Wang,  Duhyeong Kim, Ro cammarota    
+Chris Wilkerson, Sachin Taneja, Raghavan Kumar, Sanu Mathew, Jeremy casas, Jin Yang, Michael Steiner, Huijing Gong, Wen Wang,  Duhyeong Kim and Ro cammarota    
 **GOMACTech 2023**
 
 1. [[CKK+21]](https://eprint.iacr.org/2018/1214.pdf) “Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher”  

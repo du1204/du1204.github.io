@@ -50,15 +50,15 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 ## Journal
 
-1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $(x_i - x_j)$ modulo Cyclotomic Polynomial of the form $\Phi_{p^s}(x)$ or $\Phi_{p^sq^t}(x)$"
+1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $`(x_i - x_j)`$ modulo Cyclotomic Polynomial of the form $`\Phi_{p^s}(x)`$ or $`\Phi_{p^sq^t}(x)`$"
 Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim and Keewoo Lee   
 **Journal of the Korean Mathematical Society, 2022**
 
-3. [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.''
- $^*$Miran Kim, $^*$Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang    
+3. [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.''  
+\*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang    
 **Cell Systems, 2021**
 
-4. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a \*secure PHM outsourcing solution for small and medium manufacturing enterprise"  
+4. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a secure PHM outsourcing solution for small and medium manufacturing enterprise"  
 Ha Eun David Kang, Duhyeong Kim, Sangwoon Kim, David Donghyun Kim, Jung Hee Cheon and Brian W. Anthony  
 **Journal of Manufacturing Systems, 2021**
 

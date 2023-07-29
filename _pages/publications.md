@@ -50,7 +50,7 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 ## Journal
 
-1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $`(x_i - x_j)`$ modulo Cyclotomic Polynomial of the form $`\Phi_{p^s}(x)`$ or $`\Phi_{p^sq^t}(x)`$"
+1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $(x_i - x_j)$ modulo Cyclotomic Polynomial of the form $\Phi_{p^s}(x)$ or $\Phi_{p^sq^t}(x)$"
 Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim and Keewoo Lee   
 **Journal of the Korean Mathematical Society, 2022**
 

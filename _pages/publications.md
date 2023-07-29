@@ -14,8 +14,8 @@ Authors are listed in alphabetical order by last name, unless an asterisk(\*) is
 Duhyeong Kim, Dongwon Lee, Jinyeong Seo and Yongsoo Song    
 **CRYPTO 2023**
 
-1. [WTK+23] "Intel  HERACLES: Homomorphic Encryption Revolutionary Accelerator with Correctness for Learning-oriented End-to-End Solutions."        
-Chris Wilkerson, Sachin Taneja, Raghavan Kumar, Sanu Mathew, Jeremy casas, Jin Yang, Michael Steiner, Huijing Gong, Wen Wang,  Duhyeong Kim and Ro cammarota    
+1. [WTK+23] "Intel  HERACLES: Homomorphic Encryption Revolutionary Accelerator with Correctness for Learning-oriented End-to-End Solutions"        
+Chris Wilkerson, Sachin Taneja, Raghavan Kumar, Sanu Mathew, Jeremy casas, Jin Yang, Michael Steiner, Huijing Gong, Wen Wang, Duhyeong Kim and Ro Cammarota    
 **GOMACTech 2023**
 
 1. [[CKK+21]](https://eprint.iacr.org/2018/1214.pdf) “Instant Privacy-Preserving Biometric Authentication for Hamming Distance Matcher”  
@@ -50,31 +50,31 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 ## Journal
 
-1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $(x_i - x_j)$ modulo Cyclotomic Polynomial of the form $\Phi_{p^s}(x)$ or $\Phi_{p^sq^t}(x)$"
+1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $(x_i - x_j)$ modulo Cyclotomic Polynomial of the form $\Phi_{p^s}(x)$ or $\Phi_{p^sq^t}(x)$"  
 Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim and Keewoo Lee   
 **Journal of the Korean Mathematical Society, 2022**
 
-3. [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.''  
+1. [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation.''  
 \*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang    
 **Cell Systems, 2021**
 
-4. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a secure PHM outsourcing solution for small and medium manufacturing enterprise"  
+1. [[KKK+21]](https://www.sciencedirect.com/science/article/pii/S0278612521001254?dgcid=coauthor) "Homomorphic Encryption as a secure PHM outsourcing solution for small and medium manufacturing enterprise"  
 Ha Eun David Kang, Duhyeong Kim, Sangwoon Kim, David Donghyun Kim, Jung Hee Cheon and Brian W. Anthony  
 **Journal of Manufacturing Systems, 2021**
 
-5. [[KSK+20]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0722-1#citeas) “Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption”  
+1. [[KSK+20]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0722-1#citeas) “Privacy-preserving Approximate GWAS computation based on Homomorphic Encryption”  
 \*Duhyeong Kim, Yongha Son, Dongwoo Kim, Andrey Kim, Seungwan Hong and Jung Hee Cheon  
 **BMC Medical Genomics, 2020**
 
-6. [[LKL+19]](https://ieeexplore.ieee.org/document/8555993) “RLizard:  Post-Quantum Key Encapsulation Mechanism for IoT Devices”  
+1. [[LKL+19]](https://ieeexplore.ieee.org/document/8555993) “RLizard:  Post-Quantum Key Encapsulation Mechanism for IoT Devices”  
 \*Joohee Lee, Duhyeong Kim, Hyungkyu Lee, Younho Lee and Jung Hee Cheon  
 **IEEE Access, 2019**
 
-7. [[CKKS18]](https://ieeexplore.ieee.org/document/8444365) “Ensemble method for privacy-preserving logistic regression based on homomorphic encryption”  
+1. [[CKKS18]](https://ieeexplore.ieee.org/document/8444365) “Ensemble method for privacy-preserving logistic regression based on homomorphic encryption”  
 Jung Hee Cheon, Duhyeong Kim, Yongdai Kim and Yongsoo Song  
 **IEEE Access, 2018**
 
-8. [[CK16]](https://www.sciencedirect.com/science/article/pii/S0022314X16300919)  “Probability that the k-gcd of products of positive integers is B-friable”  
+1. [[CK16]](https://www.sciencedirect.com/science/article/pii/S0022314X16300919)  “Probability that the k-gcd of products of positive integers is B-friable”  
 Jung Hee Cheon and Duhyeong Kim  
 **Journal of Number Theory, 2016**
 
@@ -86,7 +86,10 @@ Jung Hee Cheon and Duhyeong Kim
 \*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang
 --->
 
-1. [[CHK20]](https://eprint.iacr.org/2020/1581.pdf) ``Remark on the Security of CKKS Scheme in Practice''     
+1. [[MKMS23]](https://eprint.iacr.org/2023/112) "Faster Amortized FHEW bootstrapping using Ring Automorphisms"  
+Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
+
+1. [[CHK20]](https://eprint.iacr.org/2020/1581.pdf) "Remark on the Security of CKKS Scheme in Practice"     
 Jung Hee Cheon, Seungwan Hong and Duhyeong Kim 
 
 1. [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption"  

@@ -15,7 +15,7 @@ Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
 **PKC 2024**
 
 1. [[AAB+23]](https://eprint.iacr.org/2023/1462.pdf) "High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application"  
-Rashmi Agrawal, Jung Ho Ahn, Flavio Bergamaschi, Ro Cammarota, Jung Hee Cheon, Fillipe D. M. de Souza, Huijing Gong, Minsik Kang, Duhyeong Kim, Jongmin Kim, Hubert de Lassus, Jai Hyun Park, Michael Steiner and Wen Wang
+Rashmi Agrawal, Jung Ho Ahn, Flavio Bergamaschi, Ro Cammarota, Jung Hee Cheon, Fillipe D. M. de Souza, Huijing Gong, Minsik Kang, Duhyeong Kim, Jongmin Kim, Hubert de Lassus, Jai Hyun Park, Michael Steiner and Wen Wang      
 **WAHC 2023**
 
 1. [[KLSS23]](https://eprint.iacr.org/2023/623.pdf) "Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE"  

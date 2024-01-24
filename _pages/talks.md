@@ -9,7 +9,7 @@ author_profile: true
 [Jan 2024] Tech Talk at [FHE.org](https://FHE.org), Online [[slides]](https://du1204.github.io/files/slide/Composite_Scaling_FHEorg.pdf)  
   
 1. **Practical Proof-of-Knowledge based on Hint-LWE**   
-[Aug 2023] [Crypto 2023](https://crypto.iacr.org/2023/) in Santa Barbara, USA [[slides]](https://du1204.github.io/files/slide/zkp_hintlwe_final.pdf) 
+[Aug 2023] [Crypto 2023](https://crypto.iacr.org/2023/) in Santa Barbara, USA [[slides]](https://du1204.github.io/files/slide/zkp_hintlwe_final.pdf)   
 [Jan 2023] Crypto Winter Camp 2023 in Konjiam Resort, Republic of Korea   
 
 1. **Faster Amortized FHEW Bootstrapping**   

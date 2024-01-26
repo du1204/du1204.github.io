@@ -6,14 +6,14 @@ permalink: /talks/
 author_profile: true
 ---
 1. **High-Precision CKKS on small word-size architecture**   
-[Jan 2024] Tech Talk at [FHE.org](https://FHE.org), Online [[slides]](https://du1204.github.io/files/slide/Composite_Scaling_FHEorg.pdf)  
+[Jan 2024] Tech Talk at [FHE.org](https://FHE.org), Online [[slides]](https://du1204.github.io/files/slide/Composite_Scaling_FHEorg.pdf)[[video]](https://youtu.be/plbZy6UR9OI?si=VjC8BaOzX1ZwHbcE)     
   
 1. **Practical Proof-of-Knowledge based on Hint-LWE**   
 [Aug 2023] [Crypto 2023](https://crypto.iacr.org/2023/) in Santa Barbara, USA [[slides]](https://du1204.github.io/files/slide/zkp_hintlwe_final.pdf)   
 [Jan 2023] Crypto Winter Camp 2023 in Konjiam Resort, Republic of Korea   
 
 1. **Faster Amortized FHEW Bootstrapping**   
-[Feb 2023] Tech Talk at [FHE.org](https://FHE.org), Online [[slides]](https://drive.google.com/file/d/1FHH3KvbzUwt3z6dvlbfDXPbql42Yxrjz/view?pli=1)[[video]](https://www.youtube.com/watch?v=7wNXeLkHmuY&feature=youtu.be)
+[Feb 2023] Tech Talk at [FHE.org](https://FHE.org), Online [[slides]](https://drive.google.com/file/d/1FHH3KvbzUwt3z6dvlbfDXPbql42Yxrjz/view?pli=1)[[video]](https://www.youtube.com/watch?v=7wNXeLkHmuY&feature=youtu.be)  
 
 1. **Approximate FHE CKKS: A to Z**   
 [July 2022] Tech Talk at [NIST Crypto Reading Club](https://csrc.nist.gov/Projects/crypto-reading-club), Online   

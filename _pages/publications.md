@@ -97,7 +97,7 @@ Jung Hee Cheon and Duhyeong Kim
 Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
 --->
 
-1. [[CCJ+23]](https://eprint.iacr.org/2023/1544.pdf) "Arithmetic PCA for Encrypted Data"
+1. [[CCJ+23]](https://eprint.iacr.org/2023/1544.pdf) "Arithmetic PCA for Encrypted Data"  
 Jung Hee Cheon, Hyeongmin Choe, Saebyul Jung, Duhyeong Kim, Dah Hoon Lee and Jai Hyun Park 
 
 1. [[CHK20]](https://eprint.iacr.org/2020/1581.pdf) "Remark on the Security of CKKS Scheme in Practice"     

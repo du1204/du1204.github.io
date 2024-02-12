@@ -97,14 +97,17 @@ Jung Hee Cheon and Duhyeong Kim
 Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
 --->
 
+1. [[CCJ+23]](https://eprint.iacr.org/2023/1544.pdf) "Arithmetic PCA for Encrypted Data"
+Jung Hee Cheon, Hyeongmin Choe, Saebyul Jung, Duhyeong Kim, Dah Hoon Lee and Jai Hyun Park 
+
 1. [[CHK20]](https://eprint.iacr.org/2020/1581.pdf) "Remark on the Security of CKKS Scheme in Practice"     
 Jung Hee Cheon, Seungwan Hong and Duhyeong Kim 
 
 1. [[CKKS19]](https://eprint.iacr.org/2019/1468.pdf) "A New Trapdoor over Module-NTRU Lattice and its Application to ID-based Encryption"  
-Jung Hee Cheon, Duhyeong Kim, Taechan Kim and Yongha Son
+Jung Hee Cheon, Duhyeong Kim, Taechan Kim and Yongha Son 
 
 1. [SCKG18] “Convergence  and Oscillation of Low-Precision Stochastic Gradient Descent”  
-\*Yongsoo Song, Jacek Cyranka, Duhyeong Kim and Sicun Gao
+\*Yongsoo Song, Jacek Cyranka, Duhyeong Kim and Sicun Gao 
 
 
 

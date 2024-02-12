@@ -97,6 +97,9 @@ Jung Hee Cheon and Duhyeong Kim
 Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
 --->
 
+1. [[KKS+23]](https://www.researchsquare.com/article/rs-3552389/v1) "Share to Gain: Collaborative Learning with Dynamic Membership via Multi-Key Homomorphic Encryption"  
+\*David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak and Brian Anthony 
+
 1. [[CCJ+23]](https://eprint.iacr.org/2023/1544.pdf) "Arithmetic PCA for Encrypted Data"  
 Jung Hee Cheon, Hyeongmin Choe, Saebyul Jung, Duhyeong Kim, Dah Hoon Lee and Jai Hyun Park 
 

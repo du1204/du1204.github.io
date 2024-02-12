@@ -92,10 +92,10 @@ Jung Hee Cheon and Duhyeong Kim
 <!---
 1. [[KHB+20]](https://www.biorxiv.org/content/10.1101/2020.07.02.183459v2.full.pdf) "Ultra-Fast Homomorphic Encryption Models enable Secure Outsourcing of Genotype Imputation"
 \*Miran Kim, \*Arif Harmanci, Jean-Philippe Bossuat, Sergiu Carpov, Jung Hee Cheon, Ilaria Chillotti, Wonhee Cho, David Froelicher, Nicolas Gama, Mariya Georgieva, Seungwan Hong, Jean-Pierre Hubaux, Duhyeong Kim, Kristin Lauter, Yiping Ma, Lucila Ohno-Machado, Heidi Sofia, Yongha Son, Yongsoo Song, Juan Troncoso-Pastoriza and Xiaoqian Jiang
---->
 
 1. [[MKMS23]](https://eprint.iacr.org/2023/112) "Faster Amortized FHEW bootstrapping using Ring Automorphisms"  
 Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
+--->
 
 1. [[CHK20]](https://eprint.iacr.org/2020/1581.pdf) "Remark on the Security of CKKS Scheme in Practice"     
 Jung Hee Cheon, Seungwan Hong and Duhyeong Kim 

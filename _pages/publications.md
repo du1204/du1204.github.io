@@ -58,6 +58,10 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 ## Journal
 
+1. [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption"  
+\*David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak and Brian W. Anthony  
+**Scientific Reports, 2024**
+
 1.  [[CKKL22]](https://koreascience.kr/article/JAKO202213341887567.pdf) "On the Scaled Inverse of $(x_i - x_j)$ modulo Cyclotomic Polynomial of the form $\Phi_{p^s}(x)$ or $\Phi_{p^sq^t}(x)$"  
 Jung Hee Cheon, Dongwoo Kim, Duhyeong Kim and Keewoo Lee   
 **Journal of the Korean Mathematical Society, 2022**
@@ -95,10 +99,16 @@ Jung Hee Cheon and Duhyeong Kim
 
 1. [[MKMS23]](https://eprint.iacr.org/2023/112) "Faster Amortized FHEW bootstrapping using Ring Automorphisms"  
 Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
---->
 
 1. [[KKS+23]](https://www.researchsquare.com/article/rs-3552389/v1) "Share to Gain: Collaborative Learning with Dynamic Membership via Multi-Key Homomorphic Encryption"  
 \*David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak and Brian Anthony 
+--->
+
+1. [[BCC+24]](https://eprint.iacr.org/2024/463.pdf) “Security Guidelines for Implementing Homomorphic Encryption”  
+Jean-Philippe Bossuat, Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, , Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz     
+
+1. [[KWK+24]](https://eprint.iacr.org/2024/707.pdf) “Towards a Polynomial Instruction Based Compiler for Fully Homomorphic Encryption Accelerators”  
+\*Sejun Kim, \*Wen Wang, \*Duhyeong Kim, Adish Vartak, Michael Steiner, and Rosario Cammarota   
 
 1. [[CCJ+23]](https://eprint.iacr.org/2023/1544.pdf) "Arithmetic PCA for Encrypted Data"  
 Jung Hee Cheon, Hyeongmin Choe, Saebyul Jung, Duhyeong Kim, Dah Hoon Lee and Jai Hyun Park 

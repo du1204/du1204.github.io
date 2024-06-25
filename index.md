@@ -16,6 +16,10 @@ I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/i
 
 ## News and Upcoming Events
 
+- THe paper [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) entitled "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption" was published at [Scientific Reports](https://www.nature.com/srep/).  
+
+- The paper [[KWK+24]](https://eprint.iacr.org/2024/707) entitled "Towards a Polynomial Instruction Based Compiler for Fully Homomorphic Encryption Accelerators" was uploaded to eprint Archive, which introduces a new instruction set called P-ISA for a general FHE accelerator. 
+
 - The paper [[DKMS23]](https://eprint.iacr.org/2023/112.pdf) entitled "Faster Amortized FHEW bootstrapping using Ring Automorphisms" was accepted to [PKC 2024](https://pkc.iacr.org/2024/). 
 
 - The paper [[AAB+23]](https://eprint.iacr.org/2023/1462.pdf) entitled "High-precision RNS-CKKS on fixed but smaller word-size architectures: theory and application" was accepted to [WAHC 2023](https://homomorphicencryption.org/workshops-wahc23/). 
@@ -28,7 +32,9 @@ I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/i
 
 - The paper [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) about "secure genotype imputation based on HE" has been published in [Cell Systems](https://www.sciencedirect.com/journal/cell-systems). This is a joint work of [iDASH 2019](http://www.humangenomeprivacy.org/2019/) Track 2 winner teams (TFHE-Chimera, SNU, EPFL), UTHealth and Microsoft Research.
 
+<!---
 - My PhD Thesis entitled "[Machine Learning on Encrypted Data and Homomorphic Comparison](https://dcollection.snu.ac.kr/srch/srchDetail/000000163766?localeParam=en)" received the Best PhD Dissertation Award from the College of Natural Sciences at SNU.
+--->
 
 <!---
 - The paper [[CKK20]](https://eprint.iacr.org/2019/1234.pdf) about “complexity-optimal homomorphic comparison” was accepted to [ASIACRYPT 2020](https://asiacrypt.iacr.org/2020/) and selected for the Gold Award at 26th [Samsung Humantech Paper Award](https://humantech.samsung.com/) (1st place in Computer Science & Engineering).

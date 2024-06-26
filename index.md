@@ -18,7 +18,7 @@ I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/i
 
 - The paper [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) entitled "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption" was published at [Scientific Reports](https://www.nature.com/srep/).  
 
-- The paper [[BCC+24]](https://eprint.iacr.org/2024/463.pdf) entitled “Security Guidelines for Implementing Homomorphic Encryption” was uploaded to eprint Archive. We provide an updated LWE parameter tables with 128-bit security and functional parameters per each FHE scheme that can be adopted directly to the implementation.  
+- The paper [[BCC+24]](https://eprint.iacr.org/2024/463.pdf) entitled “Security Guidelines for Implementing Homomorphic Encryption” was uploaded to ePrint Archive. We provide an updated LWE parameter tables with 128-bit security and functional parameters per each FHE scheme that can be adopted directly to the implementation.  
 
 - The paper [[KWK+24]](https://eprint.iacr.org/2024/707) entitled "Towards a Polynomial Instruction Based Compiler for Fully Homomorphic Encryption Accelerators" was uploaded to eprint Archive, which introduces a new instruction set called P-ISA for a general FHE accelerator. 
 

@@ -18,6 +18,8 @@ I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/i
 
 - The paper [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) entitled "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption" was published at [Scientific Reports](https://www.nature.com/srep/).  
 
+- The paper [[BCC+24]](https://eprint.iacr.org/2024/463.pdf) entitled “Security Guidelines for Implementing Homomorphic Encryption” was uploaded to eprint Archive. We provide an updated LWE parameter tables with 128-bit security and functional parameters per each FHE scheme that can be adopted directly to the implementation.  
+
 - The paper [[KWK+24]](https://eprint.iacr.org/2024/707) entitled "Towards a Polynomial Instruction Based Compiler for Fully Homomorphic Encryption Accelerators" was uploaded to eprint Archive, which introduces a new instruction set called P-ISA for a general FHE accelerator. 
 
 - The paper [[DKMS23]](https://eprint.iacr.org/2023/112.pdf) entitled "Faster Amortized FHEW bootstrapping using Ring Automorphisms" was accepted to [PKC 2024](https://pkc.iacr.org/2024/). 
@@ -28,9 +30,11 @@ I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/i
 
 <!---
 - Intel HERACLES, a revolutionary HW accelerator for lattice-based FHE, has been introduced at [GOMACTech 2023](https://www.gomactech.net/2023/).
---->
+
 
 - The paper [[KHB+21]](https://www.sciencedirect.com/science/article/pii/S240547122100288X) about "secure genotype imputation based on HE" has been published in [Cell Systems](https://www.sciencedirect.com/journal/cell-systems). This is a joint work of [iDASH 2019](http://www.humangenomeprivacy.org/2019/) Track 2 winner teams (TFHE-Chimera, SNU, EPFL), UTHealth and Microsoft Research.
+
+--->
 
 <!---
 - My PhD Thesis entitled "[Machine Learning on Encrypted Data and Homomorphic Comparison](https://dcollection.snu.ac.kr/srch/srchDetail/000000163766?localeParam=en)" received the Best PhD Dissertation Award from the College of Natural Sciences at SNU.

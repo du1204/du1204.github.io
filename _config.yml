@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Duhyeong Kim (김두형)"
   avatar           : "/assets/images/DuhyeongKim1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer at Meta, <br> Privacy-preserving ML/AI"
+  bio              : "Software Engineer at Meta <br> Privacy-preserving ML/AI"
   location         : "Bellevue, WA"
   email            :
   links:

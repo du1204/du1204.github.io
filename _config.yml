@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Duhyeong Kim (김두형)"
   avatar           : "/assets/images/DuhyeongKim1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist, <br> Privacy Technologies Research, <br> Intel Labs"
-  location         : "Hillsboro, OR, United States"
+  bio              : "Software Engineer, <br> Privacy-preserving ML/AI, <br> Meta"
+  location         : "Bellevue, WA"
   email            :
   links:
     - label: "Email"

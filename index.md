@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at Meta, building privacy-preserving ML/AI systems at scale. Prior to joining Meta, I was a Research Scientist and the technical lead of the Fully Homomorphic Encryption (FHE) algorithm and workload team in the Security & Privacy Research (SPR) group at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), Hillsboro.
+I am a Software Engineer at [Meta](https://www.metacareers.com/), building privacy-preserving ML/AI systems at scale. Prior to joining Meta, I was a Research Scientist and the technical lead of the Fully Homomorphic Encryption (FHE) algorithm and workload team in the Security & Privacy Research (SPR) group at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html).
 My major research topics are FHE and lattice-based cryptography, but I am broadly interested in all aspects of cryptography and mathematical problems derived from them. 
 
 I completed my PhD in 2021 at [Seoul National University](https://en.snu.ac.kr/index.html) (SNU), where I was advised by [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/). In 2015, I graduated with Highest Honors from SNU where I majored in Mathematical Sciences.

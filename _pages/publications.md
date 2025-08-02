@@ -58,6 +58,10 @@ Jung Hee Cheon, Duhyeong Kim, Joohee Lee and Yongsoo Song
 
 ## Journal
 
+1. [[BCC+24]](https://eprint.iacr.org/2024/463.pdf) “Security Guidelines for Implementing Homomorphic Encryption”  
+Jean-Philippe Bossuat, Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, , Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz  
+**IACR Communications in Cryptology, 2024**
+
 1. [[KKS+24]](https://www.nature.com/articles/s41598-024-63393-1) "Harnessing the potential of shared data in a secure, inclusive, and resilient manner via multi-key homomorphic encryption"  
 \*David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak and Brian W. Anthony  
 **Scientific Reports, 2024**
@@ -102,10 +106,11 @@ Gabrielle De Micheli, Duhyeong Kim, Daniele Micciancio and Adam Suhl
 
 1. [[KKS+23]](https://www.researchsquare.com/article/rs-3552389/v1) "Share to Gain: Collaborative Learning with Dynamic Membership via Multi-Key Homomorphic Encryption"  
 \*David Ha Eun Kang, Duhyeong Kim, Yongsoo Song, Dongwon Lee, Hyesun Kwak and Brian Anthony 
---->
 
 1. [[BCC+24]](https://eprint.iacr.org/2024/463.pdf) “Security Guidelines for Implementing Homomorphic Encryption”  
-Jean-Philippe Bossuat, Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, , Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz     
+Jean-Philippe Bossuat, Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, , Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz  
+--->
+   
 
 1. [[KWK+24]](https://eprint.iacr.org/2024/707.pdf) “Towards a Polynomial Instruction Based Compiler for Fully Homomorphic Encryption Accelerators”  
 \*Sejun Kim, \*Wen Wang, \*Duhyeong Kim, Adish Vartak, Michael Steiner, and Rosario Cammarota   
